@@ -1,3 +1,8 @@
+
+#This is my first vibe coding project (with Codex)
+
+
+
 # Tournament Predictor
 
 一个用于预测 16 支队伍比赛全过程的网页工具。
