@@ -1,5 +1,5 @@
 
-#This is my first vibe coding project (with Codex)
+# This is my first vibe coding project (with Codex)
 
 
 
